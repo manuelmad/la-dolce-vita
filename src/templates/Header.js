@@ -45,7 +45,7 @@ const Header = () => {
                 </ul>
             </nav>
             <div class="container-logo">
-                <img src='../assests/images/logo-empresa-medium.png' alt="Logo de la empresa">
+                <img src='./assets/images/logo-empresa-transp.png' alt="Logo de la empresa">
             </div>
         </header>
     `;
