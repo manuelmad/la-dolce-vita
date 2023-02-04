@@ -1,3 +1,4 @@
+import logo_empresa_sm from '@images/logo-empresa-transp.png';
 
 const Header = () => {
     const header = `
@@ -45,7 +46,7 @@ const Header = () => {
                 </ul>
             </nav>
             <div class="container-logo">
-                <img src='./assets/images/logo-empresa-transp.png' alt="Logo de la empresa">
+                <img src="${logo_empresa_sm}" alt="Logo de la empresa">
             </div>
         </header>
     `;

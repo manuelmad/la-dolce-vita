@@ -1,5 +1,5 @@
-import './styles/style.css';
-import Header from './templates/Header.js';
+import '@styles/style.css';
+import Header from '@templates/Header.js';
 
 
 const App = () => {
