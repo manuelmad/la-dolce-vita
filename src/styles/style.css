@@ -137,9 +137,9 @@ header {
 
 .menu-mobile ul li {
     list-style: none;
-    width: 12rem;
+    width: 18rem;
     background-color: var(--color-fondo-icono);
-    line-height: 3rem;
+    line-height: 6rem;
 }
 
 .menu-mobile ul li a {
